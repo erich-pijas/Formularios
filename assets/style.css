@@ -1,0 +1,29 @@
+.head{
+    padding: 5px;
+    background-color: rgb(162, 0, 255);
+    text-align: center;
+    
+}
+
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+input{
+    width: 500px;
+}
+
+#date{
+    width: 100px;
+}
+
+#enviar{
+    width: 100px;
+}
+
+.rodapé{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(162, 0, 255);
+}
