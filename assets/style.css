@@ -46,6 +46,11 @@ body{
     margin-bottom: 1%;
 }
 
+.upload{
+    margin-bottom: 20px;
+}
+
 .submit{
+    margin-top: 50px;
     margin-bottom: 20px;
 }
