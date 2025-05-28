@@ -11,10 +11,6 @@ body{
     margin: 0px;
 }
 
-input{
-    width: 500px;
-}
-
 #date{
     width: 100px;
 }
@@ -26,7 +22,30 @@ input{
 .rodape{
     padding: 3%;
     background-color: blueviolet;
+    color: aliceblue;
 }
 .competencias{
+    margin-bottom: 1%;
+}
+
+.aula input,select{
+    margin-bottom: 2%;
+        width: 500px;
+
+}
+
+.checkbox input{
     text-align: center;
+}
+
+.range input{
+    width: 260px;
+        margin-bottom: 3%;
+}
+.textarea{
+    margin-bottom: 1%;
+}
+
+.submit{
+    margin-bottom: 20px;
 }
